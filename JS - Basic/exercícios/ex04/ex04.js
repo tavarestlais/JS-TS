@@ -1,0 +1,1 @@
+const parag = document.querySelector('p')
